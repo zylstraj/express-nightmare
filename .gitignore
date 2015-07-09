@@ -56,7 +56,7 @@ pids
 logs
 #results
 npm-debug.log
-node_modules
+node_modules/
 morgan
 mongodb
 express
